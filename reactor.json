@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "arisarcmarket",
+    "repo": "ars",
+    "branch": "master"
+  },
+  "name": "ars",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1007
+}
